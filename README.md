@@ -1,7 +1,7 @@
 # Receipt PWA
 
 En iPhone-venlig kvitteringsapp bygget som en PWA med Next.js, Supabase og OpenAI.
-
+- Lavet som en web application, hvor man gemmen den på sin telefon som en "app" på hjemmeskærmen
 ## Det appen kan lige nu
 
 - logge ind med Supabase Auth
